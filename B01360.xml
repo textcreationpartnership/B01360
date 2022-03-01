@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The embassadour of peace, being a strange and wonderful relation of a white dove seated on a rain-bow. That appears to several persons, in the parish of Peter's Carlile; particularly to Mrs. Isabel Fletcher, (wife to Mr. Fletcher, apothecary.) To whom it relates strange and wonderful things, concerning the state of affairs in this nation; very positively asserting universal peace and plenty to all Christendom, the ensuing year 1697. Proving the subversion of the French king, from several texts of scripture; especially from the last verse of the 31st psalm. To which is added, its disputes with several ministers; as also its pious prayers and exhortations to all the people that dayly far and near flock to see it. The truth of all which, is confirm'd by the testimony of two letters, the one sent to the Reverend Dr. Simpson, and the other writ by the worshipful Justice Patrickson.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01360</idno>
+            <idno type="STC">Wing A2947</idno>
+            <idno type="STC">ESTC R170290</idno>
+            <idno type="EEBO-CITATION">52614494</idno>
+            <idno type="OCLC">ocm 52614494</idno>
+            <idno type="VID">175743</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175743)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The embassadour of peace, being a strange and wonderful relation of a white dove seated on a rain-bow. That appears to several persons, in the parish of Peter's Carlile; particularly to Mrs. Isabel Fletcher, (wife to Mr. Fletcher, apothecary.) To whom it relates strange and wonderful things, concerning the state of affairs in this nation; very positively asserting universal peace and plenty to all Christendom, the ensuing year 1697. Proving the subversion of the French king, from several texts of scripture; especially from the last verse of the 31st psalm. To which is added, its disputes with several ministers; as also its pious prayers and exhortations to all the people that dayly far and near flock to see it. The truth of all which, is confirm'd by the testimony of two letters, the one sent to the Reverend Dr. Simpson, and the other writ by the worshipful Justice Patrickson.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visions --  Great Britain --  17th century --  Religious aspects --  Early works to 1800.</term>
+               <term>Christian art and symbolism --  Early works to 1800.</term>
+               <term>Oracles --  Early works to 1800.</term>
+               <term>Doves in literature --  Early works to 1800.</term>
+               <term>Birds --  Religious aspects --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175743:1"/>
+            <pb facs="tcp:175743:1" rendition="simple:additions"/>
+            <head>THE EMBASSADOUR OF PEACE, Being a Strange and Wonderful Relation of a <hi>WHITE DOVE</hi> Seated on a <hi>Rain-Bow.</hi>
+            </head>
+            <p>That Appears to ſeveral Perſons, in the Pariſh of <hi>Peter's Carlile;</hi> particularly to Mrs. <hi>Iſabel Fletcher,</hi> (Wife to Mr. <hi>Fletcher,</hi> Apothecary.) To whom it Relates Strange and Wonderful Things, concerning the ſtate of Affairs in this Nation; very poſitively aſſerting <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Peace</hi> and <hi>Plenty</hi> to all Chriſtendom, the enſuing Year 1697. Proving the <hi>Subverſion</hi> of the <hi>French King,</hi> from ſeveral Texts of Scripture; eſpecially from the laſt Verſe of the 31ſt <hi>Pſalm.</hi>
+            </p>
+            <p>To which is Added,</p>
+            <p>Its Diſputes with ſeveral Miniſters; as alſo its pious <hi>Prayers</hi> and
+<hi>Exhortations</hi> to all the People that dayly far and near flock to ſee it.</p>
+            <p>The Truth of all which, is Confirm'd by the Teſtimony of Two Letters, the one ſent to the Reverend Dr. <hi>Simpſon,</hi> and the other Writ by the Worſhipful Juſtice
+<hi>Patrickson.</hi>
+            </p>
+            <div type="argument">
+               <head>Tydings of Joy, Peace, and Plenty, <hi>&amp;c.</hi>
+               </head>
+               <p>THe following Relation, I am going to make, is a Subject of ſuch Marvellous and Supernatural Aſtoniſhment, that I dare not pre<g ref="char:EOLhyphen"/>tend to fathom it, by the Line and Plummet of Humane Reaſon. <hi>The Works of God are unſearchable, and paſt Man's finding out.</hi> It is beyond all contradiction, that the <hi>Infinite Being</hi> has opened the Mouth of Dumb Irrational Creatures, <hi>Birds</hi> and <hi>Beaſts,</hi> and by them check'd the incorrigiblelneſs of wicked Man; the Example of <hi>Balaam</hi>'s Aſs manifeſts One; and, to go no further, our Modern Speaking <hi>Raven</hi> (a Mi<g ref="char:EOLhyphen"/>racle yet freſh in our Memories) confirms the other. I muſt confeſs, the en<g ref="char:EOLhyphen"/>ſuing Narrative, infinitely creats a much greater Admiration;
+<hi>First,</hi> As its Appearance is in the likeneſs of a <hi>Dove,</hi> that once Repreſentative (if I may ſo ſay) of the <hi>Holy Ghost:</hi> And <hi>Secondly,</hi> As it was ſeated on a <hi>Rainbow,</hi> That <hi>Token of the Covenant</hi> between <hi>God</hi> and
+<hi>Man, That the Waters ſhould no more become a Flood to deſtroy all Fleſh.</hi>
+               </p>
+               <p>Hiſtory informs us of the Deluſion of <hi>Mabomet</hi>'s <hi>Pidgeon,</hi> which indeed only whiſper'd him in the Ear; but this <hi>Dove,</hi> I am now ſpeaking of, talks frequent<g ref="char:EOLhyphen"/>ly, Holely, Audibly, and Publickly. I cite this, not to perſwade any to aſcribe
+<pb n="2" facs="tcp:175743:2"/>Sanctity to this preſent Prodigy; For why may not the Grand Deluder of Man<g ref="char:EOLhyphen"/>kind, (that Prince of the Air, whoſe Power and Policy is great) impoſe ſuch a <hi>pia fraus,</hi> that under the likeneſs of <hi>harmleſs Innocence,</hi> he may more ſecurely devour: <hi>Falſe Christs, and falſe Prophets</hi> (ſaith the Holy Evangeliſt) <hi>ſhall ariſe, and ſhall ſhew Wonders to ſeduce, if it were poſſible, even the Elect.</hi> There<g ref="char:EOLhyphen"/>fore I heartily recommend to my Readers that Excellent Advice of the Apoſtle, <hi>Try the Spirit, whether it be of God or not.</hi> And this brings me to my premiſed Narrative, which (for the avoiding any Miſtakes) I ſet down in the very Words of the Reverend Divine himſelf.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Mr. Knowl's</hi> (Miniſter of <hi>St. Peters Carlile</hi>) Letter to the Reverend Doctor <hi>Simpſon.</hi>
+               </head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="letter">
+                           <opener>
+                              <salute>Reverend Sir,</salute>
+                           </opener>
+                           <p>THe intimate Love and Friendſhip, contracted from our Infancy, and hitherto continued, by an uninterrupted Correſpondence; together with the prying Curioſity (I have ever obſerved in you) ihto things ſuper<g ref="char:EOLhyphen"/>natural, obliged me to ſend you this Strange Prodigy the manner whereof take as follows;</p>
+                           <p>On <hi>Friday</hi> the 23d. of <hi>October</hi> laſt, a little after Sun ſetting the Wife of
+<hi>John Fletcher</hi> and Apothecary in St. <hi>Peter's Carlile,</hi> a Woman of good and pious diſ<g ref="char:EOLhyphen"/>poſition; being ſet in her Chamber in a Melancholy thinking poſture, with her Child in her Arms; felt on a ſudden and unuſual Warmneſs about her Head, and, immeniately after diſcern'd the likneſs of a <hi>White-Dove,</hi> as it were upon a <hi>Rain-bow:</hi> whereupon ſhe preſently fell down into a Trance: But, at laſt, recovering herſelf, ſhe heard theſe Words uttered by it, in a ſhrill and power<g ref="char:EOLhyphen"/>ful Sound, I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>abel! <hi>be not afraid, for I am a Meſſenger ſent from GOD, to pro<g ref="char:EOLhyphen"/>claim Glad-tidings to all</hi> England: <hi>yea, even to all thoſe that ſincerely Love our Lord Jeſus Christ;</hi> And ſo, bidding her attend in the ſame place next Even<g ref="char:EOLhyphen"/>ing, it for that time diſappeared.</p>
+                           <p>The Aſtoniſhed Woman acquainted her Husband with what had happen<g ref="char:EOLhyphen"/>ed: whereupon he with ſeveral others attended with her the Hour appointed; to whom the <hi>Dove</hi> or <hi>Spirit</hi> appear'd, as aforeſaid; Exhorting them to <hi>Prayer, Piety,</hi> and <hi>Repentance;</hi> as that GOD was angry; that his Vials of Wrath were ready prepared to be poured out on all the Children of Diſobedience; that <hi>Rome</hi> had drunk deep of the Blood of the Martyrs: and therefore muſt drink deep of the Cup of GOD'S Wrath; That <hi>Peace</hi> and <hi>Plenty</hi> ſhould enviorn all <hi>Chriſten<g ref="char:EOLhyphen"/>dom;</hi> and that the preſent diſturber of the
+<hi>Wellfare</hi> thereof, ſhall in the year <hi>Ninety</hi> and <hi>Seven,</hi> be Cut off from among the Children of Men: Moreover it added, that the <hi>Kingdon of Chriſt</hi> ſhould ſhortly be Eſtabliſhed throughout the whole World: and that of Satan's totaly Subverted and broken into Confuſion. It encouraged them, out of ſeveral portions of the <hi>Holy Scriptures,</hi> to perſevere in a <hi>Godly-Life</hi> to the End, and then they ſhould be Saved; and ſo, with a <hi>Prayer</hi> to GOD, for his bleſſing on them, diſmiſs'd them for that time.</p>
+                           <p>It dayly appears to the Woman, and ſpeaks very Comfortable Sayings to her: And, as it was once repeating of the <hi>Thirty Firſt Pſalm,</hi> it ſaid, <hi>Now comes the
+<pb n="3" facs="tcp:175743:2"/>Miniſter, let him tell thee what the meaning of this Pſalm is;</hi> which ſuitably did agree with my coming into the Houſe. But I, not anſwering its expectation, it began to Expound the whole <hi>Pſalm</hi> in general; particularly applying the 24th. verſe to the <hi>Engliſh</hi> Nation; the Words are theſe,
+<hi>Be ye of good Courage, &amp; He ſhal ſtrengthen your hearts, all ye that hope in the Lord.</hi> After this it began largely to ex<g ref="char:EOLhyphen"/>poſtulate with the Woman, and to enjoyn her ſeveral Duties, Whereupon, I deſit<g ref="char:EOLhyphen"/>ed her to confider, That it was not a Good &amp; True Spirit; that ſhe ſhould refuſe to Pray at his Command: For that, under ſuch Holy Repreſentations, it might ſeduce her and others from the <hi>Word</hi> of <hi>God</hi> and his
+<hi>Grace:</hi> That we had <hi>Moſes</hi> and the <hi>Prophets</hi> whom we ſhould and muſt hear: That <hi>God</hi> had not ſet <hi>Spirits</hi> be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ore us to be our Inſtructers; but that the Soul was in greateſt Dan<g ref="char:EOLhyphen"/>ger when the Devil, under the Praet<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>xt of <hi>Innocency,</hi> appears to us: theſe Arguments and a great many more I urged to her; admoniſhing her and others, both in private and publick to give no Credence to it: but to arm themſelves with unfaigned <hi>Prayers,</hi> and firm <hi>Faith</hi> in <hi>Chriſt Jeſus</hi> againſt the Devil and all his Adherents. But the <hi>Dove</hi> like Spirit oppoſed my Sayings, telling them,
+<hi>That it was not a damned Spirit, but a Meſsenger ſent from</hi> God.</p>
+                           <p>It is ſo commonly ſeen, that it is knower to every Body in the Neighbour<g ref="char:EOLhyphen"/>hood; and appears frequently in the day time: and when Three, Four, or more are
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>reſent it never fails to ſpeak with a clear and audible Voice.</p>
+                           <p>On <hi>Sunday</hi> the 25th, of <hi>October</hi> laſt, as the Woman was going into the Cellar, ſhe bid the Boy go with her, for ſhe was afraid; the Spirit anſwered, <hi>O ye of little Faith! why are ye ſo fearful?</hi>
+                           </p>
+                           <p>It ſhews it ſelf alſo in the Neighbours Houſes, exhorting to Repentance<g ref="char:punc">▪</g> At a certain time, being preſent, with ſome others. <hi>I</hi> conjured it, by the <hi>Holy Trinity,</hi> to re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l me what it was, and wherefore it came. It preſently replyed, in the ſame manner as a fore, <hi>A Meſſenger, from</hi> God, <hi>ſent for the Converſion of Sinners.</hi> And ſo, for that time vaniſhed.</p>
+                           <p>Here is ſuch a numerous Concourſe of People that the Town cannot contain them, and if we ſhould countenance them, I am apt to think, they would ſet it up as an Idol or Oracle; for as much as ſeveral repair hither to ask Council in doubtful Mat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ers.</p>
+                           <p>I would deſire your Opinion, whithet you think it may be the effect of a <hi>Good Angel?</hi> Or whether it may be a Phantom or Deluſion of Satan, per<g ref="char:EOLhyphen"/>mitted as a Tryal of our <hi>Faith,</hi> becauſe we hear not <hi>Moſes</hi> and the <hi>Prophets: I</hi> w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll ſay no more, only deſire your anſwer by the next and in the mean time ſubſcribe my ſelf,</p>
+                           <closer>
+                              <signed>Your obſequious Servant, <hi>Edw. Knowls.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Altho' this ſingle Teſtimony, under the hands of ſuch Reverend Perſons, is ſufficient to evince the truth of this wonderful <hi>Apparition;</hi> yet to remove all Scruples we have hereunto adjoyned another Letter, ſent by a Worſhipful Juſtice of Peace to Mr. <hi>S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ly,</hi> near the <hi>Royal Exchange,</hi> his intimate Friend and Cor<g ref="char:EOLhyphen"/>reſpondent.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="letter">
+                           <pb n="4" facs="tcp:175743:3" rendition="simple:additions"/>
+                           <opener>
+                              <salute>Sir,</salute>
+                           </opener>
+                           <p>I cannot omit this Opportunity of Acquainting you with a wonderful <hi>Ap<g ref="char:EOLhyphen"/>parition,</hi> that is here amongſt us, to the exceeding Amazement of Thouſands of People, <hi>viz.</hi> A <hi>White Dove,</hi> ſeated on a <hi>Rain-Bow,</hi> that daily appears to Mrs <hi>Fletcher,</hi> an Eminent
+<hi>Appothecary</hi>'s Wife. It talks with her very much out of the Scriptures; applying eſpecially theſe Places, <hi>The Seed of the Woman ſhall bruiſe the Serpents Head. The Blood of</hi> Jeſus, <hi>&amp;c.</hi>
+                           </p>
+                           <p>It has openly declared, That unleſs they ſpeedily Repented, <hi>God</hi> would bring great Calamities upon them; For that <hi>now the Ax is laid to the Root of the Tree:</hi> It foretells the total Subverſion of the <hi>Ottoman</hi> Empire in a very ſmall ſpace of time; and a ſignal Victory over the <hi>French</hi> in 97. and that <hi>Peace</hi> and <hi>Tranquility</hi> will thereupon enſue. It alſo ſpeaks of the Affairs be<g ref="char:EOLhyphen"/>tween <hi>France</hi> and the Duke of
+<hi>Savoy.</hi>
+                           </p>
+                           <p>It delivers its Anſwers after a myſterious and ambiguous manner, as did the Oracles of old. The common People take it to be an <hi>Angel</hi> ſent from <hi>God,</hi> but a Biſhop and other of the Clergy hold it for a Devil. As for me I ſhall for<g ref="char:EOLhyphen"/>bear to paſs my Judgement, till it appear what manner of a <hi>Spirit</hi> it is.</p>
+                           <closer>
+                              <signed>Yours, HEN. PATRICKSON.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>YOu</hi> ſhall not fail of having exact notice of all enſuing Material, Paſſages relat<g ref="char:EOLhyphen"/>ing to this wonderful <hi>Prodigy,</hi> for it is ſo far from any likelyhood of Ceaſing, that it daily appears, every day more viſible than other freely anſwering all Queſtions whatſoever.</p>
+            <p>Several Atheiſts flock thither, and are fully convinced of the Power of an <hi>Almighty Being:</hi> And ſeveral eminens Perſons have employed their utmoſt Skill and Learning to find ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whether it might proceed from ſome Natural Cauſe, or not? but all in v<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> So that all in general conclude, that it is no leſs than the <hi>Finger of God.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heirs and Succeſſors of <hi>Andrew Anderſen,</hi> Printer to the Kings's moſt Excellent Majeſty 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
